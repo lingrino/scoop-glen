@@ -1,22 +1,22 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lingrino/glen/releases/download/v1.3.0/glen_1.3.0_windows_i386.zip",
+            "url": "https://github.com/lingrino/glen/releases/download/v1.3.1/glen_1.3.1_windows_i386.zip",
             "bin": [
                 "glen.exe"
             ],
-            "hash": "d97f60c57cfcf2b1f9a89d504f8095a13f342b987c3c1f44e5cfc5dc48a1b0a4"
+            "hash": "2c6a87bac491f93a8074631c5fff609a5f38233c3b1adfdbaadb22630b22ad92"
         },
         "64bit": {
-            "url": "https://github.com/lingrino/glen/releases/download/v1.3.0/glen_1.3.0_windows_x86_64.zip",
+            "url": "https://github.com/lingrino/glen/releases/download/v1.3.1/glen_1.3.1_windows_x86_64.zip",
             "bin": [
                 "glen.exe"
             ],
-            "hash": "46f60e12e45b4a990e912e893d7ffc70930b45569cd5b6267ba5cb3fe5cf5941"
+            "hash": "11bf553191f58d082ef8e948f2a326e0279cdeb070ab7773750cab7b5ee17c9e"
         }
     },
     "homepage": "https://lingrino.com/",
     "license": "MIT",
-    "description": "A CLI to gather GitLab project and group variables"
+    "description": "A CLI to gather GitLab project and group variables."
 }
