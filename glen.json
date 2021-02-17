@@ -1,19 +1,19 @@
 {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lingrino/glen/releases/download/v1.3.2/glen_1.3.2_windows_i386.zip",
+            "url": "https://github.com/lingrino/glen/releases/download/v1.4.0/glen_1.4.0_windows_i386.zip",
             "bin": [
                 "glen.exe"
             ],
-            "hash": "1057bcc8676c1682048ff397c82ddf2ed5be143d6635095d32dfb2e282b1cff7"
+            "hash": "986fdc0118ee6cd5c03a4e04b52253f70d8908f801f0585b3d4550881594db95"
         },
         "64bit": {
-            "url": "https://github.com/lingrino/glen/releases/download/v1.3.2/glen_1.3.2_windows_x86_64.zip",
+            "url": "https://github.com/lingrino/glen/releases/download/v1.4.0/glen_1.4.0_windows_x86_64.zip",
             "bin": [
                 "glen.exe"
             ],
-            "hash": "e96ecc7d49feb072071060e702a6a6bb5e515dfa64e05cc0655b51ac42bd3c30"
+            "hash": "7b0b6547c11cc2efcc691b7843a6d77fc3a0bb8c05f761e9d966538c3787f733"
         }
     },
     "homepage": "https://lingrino.com/",
